@@ -6,6 +6,7 @@ def is_lower_case(char: str) -> bool:
 
 
 char_inp = input()
+i
 if is_lower_case(char_inp):
     print("Lower Case")
 else:
